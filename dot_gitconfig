@@ -2,7 +2,7 @@
   editor = nvim
 [user]
   email = jacob.massoud04@gmail.com
-  name = a-massoud
+  name = jrmassoud
 [init]
   defaultBranch = main
 [merge]
