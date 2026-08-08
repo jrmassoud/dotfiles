@@ -1,7 +1,5 @@
 export PAGER=/bin/less
 export LESS="F i M R W x4 x q"
-export EDITOR=/usr/bin/nvim
-export VISUAL=/usr/bin/nvim
 export BROWSER=/usr/bin/firefox
 export TERMINAL=/usr/bin/kitty
 export MOZ_ENABLE_WAYLAND=1
