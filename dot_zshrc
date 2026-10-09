@@ -60,6 +60,8 @@ fi
 
 [[ -s "$HOME/.ghcup/bin" ]] && export PATH="$HOME/.cabal/bin:$HOME/.ghcup/bin:$PATH"
 
+[[ -s "$HOME/.juliaup/bin" ]] && export PATH="$HOME/.juliaup/bin:$PATH"
+
 if [[ -d "$HOME/.pyenv/bin" ]]
 then
   export PATH="$HOME/.pyenv/bin:$PATH"
