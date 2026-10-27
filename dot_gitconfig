@@ -5,6 +5,8 @@
   defaultBranch = main
 [merge]
   ff = no
+[pull]
+  ff = only
 [fetch]
   parallel = 0
 [submodule]
